@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094506845922",
+    "project_id": "agenda-boa-be928",
+    "storage_bucket": "agenda-boa-be928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094506845922:android:f2cea53b72929b5ef630bb",
+        "android_client_info": {
+          "package_name": "com.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094506845922-lrtf7uql4m9b9nnjcccu5l4csf96c55a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCla9vkmGEc8nacBQVIrCdWE8HHAhBNbFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094506845922-lrtf7uql4m9b9nnjcccu5l4csf96c55a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
